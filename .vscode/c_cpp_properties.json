@@ -5,10 +5,11 @@
             "includePath": [
                 "${workspaceRoot}",
                 "C:\\Users\\xeedn\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\**",
-                "C:\\Users\\xeedn\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\sam\\1.6.11\\**"
-            ],
-            "forcedInclude": [
-                "C:\\Users\\xeedn\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\sam\\1.6.11\\cores\\arduino\\Arduino.h"
+                "C:\\Users\\xeedn\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\sam\\1.6.11\\**",
+                "C:/Users/xeedn/AppData/Local/Arduino15/packages/arduino/hardware/sam/1.6.11/cores/arduino",
+                "C:/Users/xeedn/AppData/Local/Arduino15/packages/arduino/hardware/sam/1.6.11/system/libsam",
+                "C:/Users/xeedn/AppData/Local/Arduino15/packages/arduino/hardware/sam/1.6.11/system/CMSIS/Device/ATMEL",
+                "C:/Users/xeedn/AppData/Local/Arduino15/packages/arduino/hardware/sam/1.6.11/variants/arduino_due_x"
             ],
             "intelliSenseMode": "msvc-x64",
             "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.14.26428/bin/Hostx64/x64/cl.exe",

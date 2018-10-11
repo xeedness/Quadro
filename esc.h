@@ -2,6 +2,8 @@
 #define ESC_INO
 
 #include "general.h"
+#define __SAM3X8E__
+#include "sam3.h"
 
 #define ESC_HIGH 2000
 #define ESC_LOW 1000
